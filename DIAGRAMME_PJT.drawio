@@ -146,7 +146,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r5QFwszWZXi0YmvVdmCE-52" value="&lt;div&gt;Lancer la fonction en mode sans objet sélectionné&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-230" y="627.5" width="200" height="60" as="geometry" />
+          <mxGeometry x="-220" y="627.5" width="200" height="60" as="geometry" />
         </mxCell>
         <mxCell id="r5QFwszWZXi0YmvVdmCE-53" value="Non" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-10" y="620" width="60" height="30" as="geometry" />
