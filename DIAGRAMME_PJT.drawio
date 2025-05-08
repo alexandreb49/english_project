@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="26.2.14">
   <diagram name="Page-1" id="3TiYvkhnyo48Lv2NwWIT">
-    <mxGraphModel dx="1966" dy="1695" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2769" dy="2067" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,7 +91,7 @@
         <mxCell id="r5QFwszWZXi0YmvVdmCE-32" value="Oui" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="430" y="570" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="r5QFwszWZXi0YmvVdmCE-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="r5QFwszWZXi0YmvVdmCE-11" target="r5QFwszWZXi0YmvVdmCE-34">
+        <mxCell id="r5QFwszWZXi0YmvVdmCE-33" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r5QFwszWZXi0YmvVdmCE-11" target="r5QFwszWZXi0YmvVdmCE-48">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="200" y="650" as="sourcePoint" />
             <mxPoint x="175" y="620" as="targetPoint" />
@@ -113,7 +113,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r5QFwszWZXi0YmvVdmCE-43" value="Oui" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="150" y="940" width="60" height="30" as="geometry" />
+          <mxGeometry x="160" y="940" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="r5QFwszWZXi0YmvVdmCE-44" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r5QFwszWZXi0YmvVdmCE-37" target="r5QFwszWZXi0YmvVdmCE-45">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -126,6 +126,30 @@
         </mxCell>
         <mxCell id="r5QFwszWZXi0YmvVdmCE-46" value="Non" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="10" y="847.5" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r5QFwszWZXi0YmvVdmCE-48" value="est ce qu&#39;un élement est sélectionné ?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="55" y="610" width="225" height="95" as="geometry" />
+        </mxCell>
+        <mxCell id="r5QFwszWZXi0YmvVdmCE-49" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r5QFwszWZXi0YmvVdmCE-48" target="r5QFwszWZXi0YmvVdmCE-37">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="120" y="800" as="sourcePoint" />
+            <mxPoint x="170" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r5QFwszWZXi0YmvVdmCE-50" value="Oui" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="750" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="r5QFwszWZXi0YmvVdmCE-51" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="r5QFwszWZXi0YmvVdmCE-48">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="3" y="650" as="sourcePoint" />
+            <mxPoint x="-20" y="658" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="r5QFwszWZXi0YmvVdmCE-52" value="&lt;div&gt;Lancer la fonction en mode sans objet sélectionné&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-230" y="627.5" width="200" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r5QFwszWZXi0YmvVdmCE-53" value="Non" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-10" y="620" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
