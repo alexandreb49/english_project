@@ -209,7 +209,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="IJdTJug23O88KiCJzdD0-33" value="project management" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-220" y="560" width="100" height="90" as="geometry" />
+          <mxGeometry x="-160" y="560" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="IJdTJug23O88KiCJzdD0-34" value="design work" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="140" y="560" width="100" height="90" as="geometry" />
