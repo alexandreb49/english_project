@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="Page-1" id="vn8hduGviVdRCSNvX0Pa">
-    <mxGraphModel dx="2094" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2235" dy="609" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -28,8 +28,8 @@
         <mxCell id="2CR2mdME2oEIotMh_P0F-19" value="is the structure built ?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="300" y="330" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="2CR2mdME2oEIotMh_P0F-21" value="what type of design work ?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-25" y="510" width="170" height="30" as="geometry" />
+        <mxCell id="2CR2mdME2oEIotMh_P0F-21" value="Is it structural or architectural work ?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+          <mxGeometry x="120" y="690" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2CR2mdME2oEIotMh_P0F-22" value="YES" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="420" width="70" height="40" as="geometry" />
@@ -41,34 +41,34 @@
           <mxGeometry x="-250" y="405" width="120" height="70" as="geometry" />
         </mxCell>
         <mxCell id="2CR2mdME2oEIotMh_P0F-27" value="Structural" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-100" y="584.5" width="100" height="45" as="geometry" />
+          <mxGeometry x="40" y="764.5" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="2CR2mdME2oEIotMh_P0F-28" value="Architectural" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="120" y="585" width="100" height="45" as="geometry" />
+          <mxGeometry x="260" y="765" width="100" height="45" as="geometry" />
         </mxCell>
         <mxCell id="2CR2mdME2oEIotMh_P0F-29" value="is the building height is higher than 30 m ?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-140" y="653" width="170" height="30" as="geometry" />
+          <mxGeometry x="-10" y="833" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2CR2mdME2oEIotMh_P0F-31" value="does the building must be built against natural disasters ?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-270" y="780" width="170" height="30" as="geometry" />
+          <mxGeometry x="-130" y="960" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="2CR2mdME2oEIotMh_P0F-32" value="YES" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-40" y="710" width="70" height="40" as="geometry" />
+          <mxGeometry x="100" y="890" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2CR2mdME2oEIotMh_P0F-33" value="NO" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-220" y="710" width="70" height="40" as="geometry" />
+          <mxGeometry x="-80" y="890" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2CR2mdME2oEIotMh_P0F-34" value="YES" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-180" y="840" width="70" height="40" as="geometry" />
+          <mxGeometry x="-145" y="1010" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2CR2mdME2oEIotMh_P0F-35" value="NO" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-300" y="840" width="70" height="40" as="geometry" />
+          <mxGeometry x="-10" y="1010" width="70" height="40" as="geometry" />
         </mxCell>
         <mxCell id="2CR2mdME2oEIotMh_P0F-36" value="Revit, ETABS, SAP2000, Tekla Structures, Navisworks." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-65" y="820" width="120" height="80" as="geometry" />
+          <mxGeometry x="-180" y="1070" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2CR2mdME2oEIotMh_P0F-37" value="AutoCAD, SketchUp, Revit (for structural work), STAAD Pro." style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-340" y="930" width="120" height="80" as="geometry" />
+          <mxGeometry x="10" y="1070" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IJdTJug23O88KiCJzdD0-1" value="Is it for facade renovation?" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="590" y="330" width="160" height="30" as="geometry" />
@@ -176,6 +176,66 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="60" y="380" as="sourcePoint" />
             <mxPoint x="-100" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IJdTJug23O88KiCJzdD0-28" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2CR2mdME2oEIotMh_P0F-21" target="2CR2mdME2oEIotMh_P0F-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-20" y="820" as="sourcePoint" />
+            <mxPoint x="30" y="770" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IJdTJug23O88KiCJzdD0-29" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2CR2mdME2oEIotMh_P0F-21" target="2CR2mdME2oEIotMh_P0F-28">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="190" y="800" as="sourcePoint" />
+            <mxPoint x="240" y="750" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IJdTJug23O88KiCJzdD0-30" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2CR2mdME2oEIotMh_P0F-29" target="2CR2mdME2oEIotMh_P0F-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-50" y="870" as="sourcePoint" />
+            <mxPoint y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IJdTJug23O88KiCJzdD0-31" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.456;exitY=0.933;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2CR2mdME2oEIotMh_P0F-29" target="2CR2mdME2oEIotMh_P0F-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="30" y="940" as="sourcePoint" />
+            <mxPoint x="80" y="890" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IJdTJug23O88KiCJzdD0-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="2CR2mdME2oEIotMh_P0F-33" target="2CR2mdME2oEIotMh_P0F-31">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-150" y="970" as="sourcePoint" />
+            <mxPoint x="-100" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IJdTJug23O88KiCJzdD0-33" value="project management" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-220" y="560" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IJdTJug23O88KiCJzdD0-34" value="design work" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="560" width="100" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="IJdTJug23O88KiCJzdD0-35" value="what type of&amp;nbsp; work is needed ?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="11" y="510" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="IJdTJug23O88KiCJzdD0-36" value="AutoCAD, SketchUp, Revit (for structural work), STAAD Pro." style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="863" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="IJdTJug23O88KiCJzdD0-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="2CR2mdME2oEIotMh_P0F-22" target="IJdTJug23O88KiCJzdD0-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="510" as="sourcePoint" />
+            <mxPoint x="150" y="460" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IJdTJug23O88KiCJzdD0-39" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IJdTJug23O88KiCJzdD0-35" target="IJdTJug23O88KiCJzdD0-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="100" y="600" as="sourcePoint" />
+            <mxPoint x="150" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="IJdTJug23O88KiCJzdD0-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="IJdTJug23O88KiCJzdD0-35" target="IJdTJug23O88KiCJzdD0-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-60" y="600" as="sourcePoint" />
+            <mxPoint x="-10" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
