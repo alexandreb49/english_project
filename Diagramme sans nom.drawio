@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="Page-1" id="vn8hduGviVdRCSNvX0Pa">
-    <mxGraphModel dx="2629" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4822" dy="1370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -322,11 +322,11 @@
         <mxCell id="IJdTJug23O88KiCJzdD0-58" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;AUTODESK&amp;nbsp;&lt;span style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;BUILD&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1070.51" y="846.5" width="130" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="IJdTJug23O88KiCJzdD0-60" value="SketchUp" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="72.5" y="490" width="85" height="40" as="geometry" />
+        <mxCell id="IJdTJug23O88KiCJzdD0-60" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;SketchUp" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="72.5" y="490" width="157.5" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="IJdTJug23O88KiCJzdD0-61" value="Revit" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-387.5" y="480" width="90" height="50" as="geometry" />
+        <mxCell id="IJdTJug23O88KiCJzdD0-61" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Revit" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="-387.5" y="480" width="137.5" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IJdTJug23O88KiCJzdD0-62" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="IJdTJug23O88KiCJzdD0-5" target="IJdTJug23O88KiCJzdD0-60" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -353,7 +353,13 @@
           <mxGeometry x="-842.52" y="850.01" width="45.04" height="43.73" as="geometry" />
         </mxCell>
         <mxCell id="ipKGt178RLqoAKH5wHGe-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cursosbyte.com.br/wp-content/uploads/2024/01/autocad_curso-min.jpg;clipPath=inset(14% 12.33% 14.33% 12%);" vertex="1" parent="1">
-          <mxGeometry x="-334.37" y="865.7800000000001" width="43.75" height="41.44" as="geometry" />
+          <mxGeometry x="-334.38" y="865.7800000000001" width="43.75" height="41.44" as="geometry" />
+        </mxCell>
+        <mxCell id="ipKGt178RLqoAKH5wHGe-10" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/png,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;" vertex="1" parent="1">
+          <mxGeometry x="-338.44" y="485.31" width="39.38" height="39.38" as="geometry" />
+        </mxCell>
+        <mxCell id="ipKGt178RLqoAKH5wHGe-11" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://elmtec.fr/wp-content/uploads/2022/01/SketchUp-Mark-1200pxl-RGB.png;" vertex="1" parent="1">
+          <mxGeometry x="132.44" y="499.06" width="37.63" height="40.94" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
