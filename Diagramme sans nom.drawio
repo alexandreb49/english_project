@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.0.6">
   <diagram name="Page-1" id="vn8hduGviVdRCSNvX0Pa">
-    <mxGraphModel dx="2358" dy="304" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2629" dy="422" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -217,7 +217,7 @@
         <mxCell id="IJdTJug23O88KiCJzdD0-35" value="what type of&amp;nbsp; work is needed ?" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-616.5" y="490" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IJdTJug23O88KiCJzdD0-36" value="AutoCAD" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="IJdTJug23O88KiCJzdD0-36" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;AutoCAD" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-372.5" y="850" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="IJdTJug23O88KiCJzdD0-38" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2CR2mdME2oEIotMh_P0F-22" target="IJdTJug23O88KiCJzdD0-35" edge="1">
@@ -350,7 +350,10 @@
           <mxGeometry x="-1020.7700000000001" y="856.61" width="30.52" height="30.52" as="geometry" />
         </mxCell>
         <mxCell id="ipKGt178RLqoAKH5wHGe-6" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/89/44/55/89445505-901e-9723-7ac5-986123f07899/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/1200x630wa.png;clipPath=inset(18.35% 33.33% 18.35% 32.33%);" vertex="1" parent="1">
-          <mxGeometry x="-849.02" y="850" width="45.04" height="43.73" as="geometry" />
+          <mxGeometry x="-842.52" y="850.01" width="45.04" height="43.73" as="geometry" />
+        </mxCell>
+        <mxCell id="ipKGt178RLqoAKH5wHGe-9" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://cursosbyte.com.br/wp-content/uploads/2024/01/autocad_curso-min.jpg;clipPath=inset(14% 12.33% 14.33% 12%);" vertex="1" parent="1">
+          <mxGeometry x="-334.37" y="865.7800000000001" width="43.75" height="41.44" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
